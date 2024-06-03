@@ -1,0 +1,17 @@
+.carousel-container {
+    width: 900px;
+    height: 200px;
+  }
+  
+  .logo-container {
+    text-align: center;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 30%;
+  }
+  
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  
